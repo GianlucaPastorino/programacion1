@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626092862 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\recuprogramacion1pastorino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

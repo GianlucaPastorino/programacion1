@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1619614304 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\abmempleados\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1620026080 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\abmempleados\empleado.h
+
+1620026849 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\abmempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1622016014 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+	"comida.h"
+	"almuerzo.h"
+	"datawarehouse.h"
+
+1622020621 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\empleado.h
+	"sector.h"
+	"fecha.h"
+	"datawarehouse.h"
+	"inputs.h"
+
+1622016014 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"datawarehouse.h"
+	"sector.h"
+	"inputs.h"
+
+1621395290 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\datawarehouse.h
+	"fecha.h"
+	"empleado.h"
+	"almuerzo.h"
+
+1621370033 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1621367612 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\sector.h
+
+1622016014 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\informes.h
+	"empleado.h"
+	"almuerzo.h"
+
+1622014329 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\fecha.h
+
+1622016089 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1622020543 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+
+1622010486 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\comida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comida.h"
+
+1622010486 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\comida.h
+
+1621380341 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\almuerzo.h
+	"fecha.h"
+	"comida.h"
+	"empleado.h"
+
+1621396219 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621424242 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1621424242 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\inputs.h
+
+1622014329 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 12 - abm empleados\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+

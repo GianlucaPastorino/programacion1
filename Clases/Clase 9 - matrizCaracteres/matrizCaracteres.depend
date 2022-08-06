@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618845528 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\matrizcaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619245183 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 9 - matrizcaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

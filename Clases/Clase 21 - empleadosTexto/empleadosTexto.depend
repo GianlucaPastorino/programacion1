@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623679422 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\empleadostexto\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1623679422 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\empleadostexto\empleado.h
+
+1623679599 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\empleadostexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	<ctype.h>
+

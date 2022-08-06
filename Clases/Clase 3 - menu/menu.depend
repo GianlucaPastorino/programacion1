@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1618617374 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\menu\gianluca.c
+	"gianluca.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1618617374 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\menu\gianluca.h
+
+1618617374 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"gianluca.h"
+
+1618617374 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 3 - menu\menu\gianluca.c
+	"gianluca.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1618617374 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 3 - menu\menu\gianluca.h
+
+1618617374 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 3 - menu\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"gianluca.h"
+
+1618617374 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 3 - menu\gianluca.c
+	"gianluca.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1618617374 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 3 - menu\gianluca.h
+
+1618617374 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 3 - menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"gianluca.h"
+

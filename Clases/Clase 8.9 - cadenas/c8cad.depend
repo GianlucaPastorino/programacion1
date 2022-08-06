@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1618618985 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\c8cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618838142 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 8 - cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1618975406 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 8.9 - cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618961530 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619440070 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 8.10 - paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

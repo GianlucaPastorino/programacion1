@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1627476439 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"inputs.h"
+	"parser.h"
+	"controller.h"
+
+1627370772 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\linkedlist.h
+
+1627481940 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\bicicletas.h
+
+1625564364 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\inputs.h
+
+1627474411 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\parser.h
+
+1627476439 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\controller.h
+
+1625564364 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1627375035 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627474391 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627481940 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"bicicletas.h"
+
+1627482078 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"inputs.h"
+	"controller.h"
+	"informes.h"
+
+1627481126 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"bicicletas.h"
+
+1627481126 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\recuparcial2labopastorino\informes.h
+

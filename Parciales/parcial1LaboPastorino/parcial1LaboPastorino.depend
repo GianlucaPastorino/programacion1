@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1622018499 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"inputs.h"
+	"tipo.h"
+	"color.h"
+	"informes.h"
+
+1622039723 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1621919912 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1622039723 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\color.h
+
+1621987130 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1622039723 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\inputs.h
+
+1622038505 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"informes.h"
+	"inputs.h"
+
+1622039722 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\tipo.h
+
+1622039723 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\servicio.h
+
+1621921721 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621919570 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1621987995 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"color.h"
+	"fecha.h"
+	"tipo.h"
+	"servicio.h"
+	"bicicleta.h"
+	"inputs.h"
+
+1622039722 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\trabajo.h
+	"fecha.h"
+	"bicicleta.h"
+	"servicio.h"
+	"tipo.h"
+	"color.h"
+
+1622039723 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\fecha.h
+
+1622039722 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\informes.h
+	"bicicleta.h"
+	"color.h"
+	"tipo.h"
+	"trabajo.h"
+	"servicio.h"
+
+1622040274 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"bicicleta.h"
+	"inputs.h"
+	"trabajo.h"
+	"servicio.h"
+	"fecha.h"
+
+1622038372 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\parcial1labopastorino\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+

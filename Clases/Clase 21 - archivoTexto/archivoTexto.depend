@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623676604 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\archivotexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625253462 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 21 - archivotexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1625617061 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\prueball\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1560446930 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\prueball\linkedlist.h
+
+1627172182 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 25 - prueball\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627172153 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 25 - prueball\linkedlist.h
+
+1627173386 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 25 - prueball\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+

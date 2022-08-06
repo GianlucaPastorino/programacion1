@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1627173737 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1627259032 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1627264830 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 25 - aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

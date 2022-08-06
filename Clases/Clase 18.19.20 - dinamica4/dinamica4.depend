@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1622642073 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\dinamica4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623493428 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18 - dinamica4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1623493993 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18 - dinamica4\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1623492780 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18 - dinamica4\empleado.h
+
+1623575932 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18.19 - dinamica4\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1623559384 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18.19 - dinamica4\empleado.h
+
+1623639633 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18.19 - dinamica4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1625532727 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18.19.20 - dinamica4\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1625532727 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18.19.20 - dinamica4\empleado.h
+	"LinkedList.h"
+
+1625533537 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18.19.20 - dinamica4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"LinkedList.h"
+
+1565993298 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 18.19.20 - dinamica4\linkedlist.h
+

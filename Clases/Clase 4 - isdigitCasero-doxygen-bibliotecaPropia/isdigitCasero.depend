@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617154995 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 4 - isdigitcasero-doxygen-bibliotecapropia\gianluca.c
+	"gianluca.h"
+
+1617154574 d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 4 - isdigitcasero-doxygen-bibliotecapropia\gianluca.h
+
+1617154994 source:d:\programación\.utn\primer cuatrimestre\programación i - laboratorio i\ejercicios\clase 4 - isdigitcasero-doxygen-bibliotecapropia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"gianluca.h"
+
